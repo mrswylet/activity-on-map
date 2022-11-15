@@ -1,4 +1,4 @@
-import points from '/points.js';
+import points from './points.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   const { ymaps } = window;
