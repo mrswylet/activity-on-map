@@ -23,4 +23,17 @@ export default [
       'Купель': '4000 руб на все время проживания',
     }
   },
+  {
+    cord: [56.78790145231818, 59.90539428959414],
+    imags: [],
+    type: 'home',
+    link: 'https://m.avito.ru/sverdlovskaya_oblast_revda/doma_dachi_kottedzhi/kottedzh_210m_na_uchastke_10sot._2269440067',
+    address: 'Кажется, переулок Солнечный в Ревде',
+    price: 85000,
+    options: {
+      'Сауна': 'Могут включить на 2-3 часа',
+      'Заезд': '31 декабря в 17:00',
+      'Выезд': '2 января в 13:00' 
+    }
+  },
 ]
