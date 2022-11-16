@@ -33,7 +33,21 @@ export default [
     options: {
       'Сауна': 'Могут включить на 2-3 часа',
       'Заезд': '31 декабря в 17:00',
-      'Выезд': '2 января в 13:00' 
+      'Выезд': '2 января в 13:00',
     }
+  },
+  {
+    cord: [56.881155, 60.951311],
+    imags: [
+      '/images/hvoya-house/photo_2022-11-15_22-51-42.jpg',
+      '/images/hvoya-house/photo_2022-11-15_22-51-42_2.jpg',
+      '/images/hvoya-house/photo_2022-11-15_22-51-42_3.jpg',
+      '/images/hvoya-house/photo_2022-11-15_22-51-42_4.jpg',
+    ],
+    type: 'home',
+    link: 'https://www.instagram.com/hvoya_house_ekb/',
+    address: 'ДНТ Станицы, Березовский ГО, 25км от Екб',
+    price: 65000,
+    options: {}
   },
 ]
