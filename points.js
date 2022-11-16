@@ -112,7 +112,14 @@ export default [
     title: 'Лесное озеро',
     cord: [55.021897, 59.940655],
     imags: [
-      '',
+      'https://78.img.avito.st/image/1/1.U7ACGLay_1k0sT1cKDliyfy7_1-ivf0.0gw1RhRjYvIoKqsSWhvI5XnbNzQed994575Qr47szbc',
+      'https://24.img.avito.st/image/1/1.vW0Mt7ayEYQ6HtOBeqHOPfwUEYKsEhM.e4Fg3_HVVLPezJhEAj138QXwey0itHw0L93bXuc3gzI',
+      'https://61.img.avito.st/image/1/1.XKSOiLay8E24ITJIuvVLvH4r8EsuLfI.zxA__g73vOanZqCqM07w5pwbhmofGRrE-50GES9OD6c',
+      'https://83.img.avito.st/image/1/1.MuHsS7ayngja4lwNhAtQrRPong5M7pw.NGK-RKVw_ahN9j6YGbWaS2ZbF72eLZmuxf9rnJq6lu4',
+      'https://47.img.avito.st/image/1/1.ipzNqbayJnX7AORw1aPWshEKJnNtDCQ.SQKFy1kV7Iy68S7uB6cYfvnNxzkDDoKmSRBctgO2eVw',
+      'https://56.img.avito.st/image/1/1.WRUWlbay9fwgPDf5KMBUbtE29fq2MPc.YsWzASHb7YZlyut3Yw3_Sic1Y7C98bA151ZJowNalL4',
+      'https://53.img.avito.st/image/1/1.HB0zFLaysPQFvXLxB0QWZvS3sPKTsbI.l3OZPSMeXIuJDrSYajsNdChlFMtVsOJHVWrHpPZexA0',
+      'https://15.img.avito.st/image/1/1.Iv1pebayjhRf0EwRISkohq7ajhLJ3Iw.NI0KkxRZqu79UAyt-p6-jZVqGOiOU5Rs-_nwp7qz47k',
     ],
     type: 'home',
     link: 'https://www.avito.ru/miass/doma_dachi_kottedzhi/kottedzh_60m_na_uchastke_100sot._930785931',
@@ -121,7 +128,8 @@ export default [
     options: {
       'Озеро': 'Прямо под боком',
       'Баня': 'включено',
-      'Чан': 'доп'
+      'Чан': 'доп',
+      'p.s.': 'Фотки огонь'
     }
   },
   {
@@ -177,6 +185,61 @@ export default [
       'Заезд': '30 декабря',
       'Выезд': '2 января',
       'Минусы': 'Маленький и всего на 7 человек'
+    }
+  },
+  {
+    title: 'Новоабзаково',
+    cord: [53.809062, 58.643072],
+    imags: [
+      'https://03.img.avito.st/image/1/1.3pEoSraycnge47B9GHXy27Hpcn6I73A.r5fEadqoBVDhw94EmgA_CahfdE7e4J94xjsVXyJ_l6w',
+      'https://79.img.avito.st/image/1/1.5odkjLaySm5SJYhrJOeQ7qMvSmjEKUg.CT_OmE_R1Cx3mKyXnA0bLKF8UKjJhmbU3STrp58HoAk',
+      'https://91.img.avito.st/image/1/1.KnwPTbayhpU55ESQV3UGNpbuhpOv6IQ.rqAPDCLGO1TfTyO4Uh77U0cUvn7K078SmsHx9JSaNGM',
+      'https://94.img.avito.st/image/1/1.JxyLcbayi_W92EnwyUkLVhLSi_Mr1Ik._SdgfUlDDkW1_SXZDretgiqGZfuRtjQRzbf6PQDwbAk',
+      'https://61.img.avito.st/image/1/1.BJATTbayqHkl5Gp8F3Uo2oruqH-z6Ko.q8Raho878W7FJ9M8wsnFbJwAKDdT1xAxsuXU50AKhVI',
+      'https://46.img.avito.st/image/1/1.FxyLcbayu_W92HnwqUk7VhLSu_Mr1Lk.6L-j8ptPUsSL2ECe_dhiuu7nUUKGPnvptOZZEgqLvzI',
+      'https://30.img.avito.st/image/1/1.w8Tlfrayby3T160o70HvjnzdbytF220.stFZzAkjkN1oSGzbU1IlwGbz9yfLY7b2Gt1o1cKQyxA',
+      'https://93.img.avito.st/image/1/1.gEwM_bayLKU6VO6gAMOsBpVeLKOsWC4.Pk4jzz1jzMh7m0io75uuPwCZiUl59i8rb81RrBAa8B8',
+      'https://14.img.avito.st/image/1/1.d9ZkVLay2z9S_Rk6Bm1bnP332znE8dk.JEs_jChnM160YSOJBwvRcwO5HCQCqtcMDYfDbVTYCqM',
+      'https://87.img.avito.st/image/1/1.nodkjLayMm5SJfBrVObo7qMvMmjEKTA.T6XCAl7FG8lJZPMvnYZngfCS3uRxm4Rm6zdnLH8AYXU',
+      'https://90.img.avito.st/image/1/1.hx6LcbayK_e92OnyiU-rVBLSK_Er1Ck.WOx3pZtdSyiRc7-w0SzB49tSmjusCdSGFzWCFdrcBTM',
+    ],
+    type: 'home',
+    link: 'https://www.avito.ru/lomovka/doma_dachi_kottedzhi/dom_100m_na_uchastke_15sot._1845790015',
+    address: 'Башкирия, Новоабзаково, Новая 13/1',
+    price: 46000,
+    options: {
+      'Минусы': 'тут ничего нет',
+      'Спальных мест': '8',
+    }
+  },
+  {
+    title: 'Мажорный коттедж',
+    cord: [53.805327, 58.634151],
+    imags: [
+      'https://32.img.avito.st/image/1/1.BQ_zarayqebFw2vj9VonY17JqeBTz6s.DrkM2FA8BO094PjfF8MNPQpoKn1TIuR6abQ3IRI4Fjk',
+      'https://40.img.avito.st/image/1/1.PQ_zaraykebFw1PjhVofY17JkeBTz5M.Wc_ROkz0RnVQtpjwHXdCqy_ZJ2f0y3uFrbkx0yvhMpU',
+      'https://94.img.avito.st/image/1/1.m8Dfl7ayNynpPvUs5eWm8SE0Ny9_MjU.0dP00f6dDSGC0jKZUeEuZAtQGdn9Q4SOL_C1Q6xEklE',
+      'https://02.img.avito.st/image/1/1.x11r4baya7RdSKmxaY77bJVCa7LLRGk.KVO7NxwD3aKb87lU7FxoEuVvQkxhCgtzgpq1nFFdpPI',
+      'https://42.img.avito.st/image/1/1.P5Kn0bayk3uReFF-1eEd_gpyk30HdJE._oaIQwWOzn3xL5n2peVLV29v4T-Yr_6ejv77KrucNHs',
+      'https://65.img.avito.st/image/1/1.0HIybrayfJsEx76eHnWHMN7NfJ2Sy34.Ut84sRQM9rSTm01EG2GFYYPusKMmDX9gIq7zCdWRGRA',
+      'https://43.img.avito.st/image/1/1.HrDUArayslniq3Bc5F4igSqhsl90p7A.mXwywo3r_WlHiGfAPW6wgibtoMvN8jdVjzqNaOYQeWo',
+      'https://28.img.avito.st/image/1/1.CXXy_7aypZzEVmeZ7M8rGV9cpZpSWqc.vWEgqKXEzb-iBWG92d8n3O9ithSb0mJffZTYN9K9T4g',
+      'https://45.img.avito.st/image/1/1.OMmY7LaylCCuRVYl5NwapTVPlCY4SZY.JW3CuV63Wr0irSH5gm0FJSAzR3MkbwqBoxu1T3TeqYw',
+      'https://24.img.avito.st/image/1/1.DSJS5rayoctkT2PORNYvTv9Foc3yQ6M.Ge4lLHkiCTH_WNC6voLK-2RqxlOjuVRHMVGv_1rnImo',
+      'https://07.img.avito.st/image/1/1.siM94LayHsoLSdzPVeaQT5BDHsydRRw.SPlHS-txQ97xygQq0Eha80cvnmyNl6pZuo5nsAqZUAs',
+      'https://75.img.avito.st/image/1/1.Ul68tray_reKHzyylKNvb0IV_rEcE_w.fikX42YGVgyqbZR_vtSbqBA4fXJ8qy4nKgqDNj4M4yE',
+      'https://09.img.avito.st/image/1/1.rBmUc7ayAPCi2sL1wHWOdTnQAPY01gI.vt_EdNR3yTqgfBZYk9HJTRDrMWK_540myPRJ2KDfbvQ',
+      'https://52.img.avito.st/image/1/1.mZSa3bayNX2sdPd4pOuM_29-NXs6eDc.phj4NddpI59aSIDcPjZc_u2tSnc-ufYlx7r34WSOSfs',
+      'https://61.img.avito.st/image/1/1.kH2JnLayPJS_Nf6RpaqFFnw_PJIpOT4.wBD8lc7BPzgT_ITBfX3GcQdMbo4VEqq-NW2aaInj37E',
+    ],
+    type: 'home',
+    link: 'https://www.avito.ru/lomovka/doma_dachi_kottedzhi/kottedzh_190m_na_uchastke_6sot._810440300',
+    address: 'Башкирия, Новоабзаково, Горнолыжная 37',
+    price: 150000,
+    options: {
+      'Заезд': '30 декабря',
+      'Выезд': '2 января',
+      'Цена': 'Да, это 150к рублей',
     }
   },
 ]
