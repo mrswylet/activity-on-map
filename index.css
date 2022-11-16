@@ -17,6 +17,9 @@ body {
 	height: 100%;
 }
 
+.map-balloon {
+	max-width: calc(100vw - 100px);
+}
 
 .map-imag-slider {
 	overflow: scroll;

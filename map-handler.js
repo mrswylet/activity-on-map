@@ -15,6 +15,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const homePoints = points.filter((point) => point.type === 'home');
     const homeCluster = getCluster(homePoints, 'home');
     myMap.geoObjects.add(homeCluster);
+    const boundsHomeCluster = homeCluster.getBounds()
+    myMap.setBounds(boundsHomeCluster, {
+      zoomMargin: 30,
+    });
 
     const mountainPoints = points.filter((point) => point.type === 'mountain');
     const mountainCluster = getCluster(mountainPoints, 'mountain');
@@ -37,16 +41,16 @@ document.addEventListener('DOMContentLoaded', () => {
     if (type === 'home') {
       preset = 'islands#redHomeIcon';
     } else if (type === 'mountain') {
-      preset = 'islands#darkOrangeMountainIcon';
+      preset = 'islands#violetMountainIcon';
     }
 
     return point.reduce((clusterer, point) => {
-      let balloonContent = '';
+      let balloonContent = '<div class="map-balloon">';
       if (point.address) {
         balloonContent += `<h3>${point.address}</h3>`
       }
       if (point.link) {
-        balloonContent += `<a href="${point.link}">${point.link}</a>`
+        balloonContent += `<p><a href="${point.link}">Ссылка</a></p>`
       }
       if (point.price) {
         balloonContent += `<p>Цена: ${point.price.toLocaleString()}</p>`;
@@ -65,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         balloonContent += '</div>';
       }
+      balloonContent += '</div>';
 
 
       const placemark = new ymaps.Placemark(point.cord, {
