@@ -39,10 +39,10 @@ export default [
   {
     cord: [56.881155, 60.951311],
     imags: [
-      '/images/hvoya-house/photo_2022-11-15_22-51-42.jpg',
-      '/images/hvoya-house/photo_2022-11-15_22-51-42_2.jpg',
-      '/images/hvoya-house/photo_2022-11-15_22-51-42_3.jpg',
-      '/images/hvoya-house/photo_2022-11-15_22-51-42_4.jpg',
+      '/activity-on-map/images/hvoya-house/photo_2022-11-15_22-51-42.jpg',
+      '/activity-on-map/images/hvoya-house/photo_2022-11-15_22-51-42_2.jpg',
+      '/activity-on-map/images/hvoya-house/photo_2022-11-15_22-51-42_3.jpg',
+      '/activity-on-map/images/hvoya-house/photo_2022-11-15_22-51-42_4.jpg',
     ],
     type: 'home',
     link: 'https://www.instagram.com/hvoya_house_ekb/',
