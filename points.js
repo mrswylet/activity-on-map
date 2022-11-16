@@ -79,4 +79,29 @@ export default [
     price: 65000,
     options: {}
   },
+  {
+    cord: [56.773557, 59.807044],
+    imags: [
+      'https://family-place.ru/static/uploads/camps/16680062902016125.jpg',
+      'https://family-place.ru/static/uploads/camps/16680063073064656.jpg',
+      'https://family-place.ru/static/uploads/camps/1668006314336667.jpg',
+      'https://family-place.ru/static/uploads/camps/1668006327628975.jpg',
+      'https://family-place.ru/static/uploads/camps/16680063356528113.jpg',
+      'https://family-place.ru/static/uploads/camps/16680063475960436.jpg',
+      'https://family-place.ru/static/uploads/camps/16680063550927248.jpg',
+      'https://family-place.ru/static/uploads/camps/16680063613977358.jpg',
+      'https://family-place.ru/static/uploads/camps/16680063797804103.jpg',
+      'https://family-place.ru/static/uploads/camps/16680063901230917.jpg',
+    ],
+    type: 'home',
+    link: 'https://family-place.ru/camps/21_Mesto_Sily_Revd',
+    address: 'МЕСТО СИЛЫ РЕВДА, ',
+    price: 70000,
+    options: {
+      'Беседка': 'есть',
+      'Мангальная зона': 'есть',
+      'Банный чан': 'есть',
+      'Количество спален': '3',
+    }
+  },
 ]
