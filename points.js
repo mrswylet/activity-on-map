@@ -1,5 +1,6 @@
 export default [
   {
+    title: 'Уктус',
     cord: [56.77420921, 60.64602682],
     imags: [
       'https://uktus.ural.ski/wp-content/uploads/2022/11/photo_2022-11-08_17-09-40-400x256.jpg',
@@ -7,6 +8,34 @@ export default [
     type: 'mountain',
     link: 'https://uktus.ural.ski/',
     address: 'Зимняя улица, 27, Екатеринбург',
+  },
+  {
+    title: 'Пильная',
+    cord: [56.918787, 60.024816],
+    imags: [
+      'https://pilnaya.ru/wp-content/uploads/2019/09/map2012.jpg',
+    ],
+    type: 'mountain',
+    link: 'http://pilnaya.ru/',
+    address: 'улица Старателей, 2Б, Первоуральск',
+  },
+  {
+    title: 'Теплая',
+    cord: [56.946219, 59.883960],
+    imags: [
+      '/activity-on-map/images/mountain/teplaya.png',
+    ],
+    type: 'mountain',
+    link: 'https://teplaya.ru/',
+  },
+  {
+    title: 'Волчика',
+    cord: [56.824457, 59.996371],
+    imags: [
+      'http://volchiha.ru/data/images/%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0.jpg',
+    ],
+    type: 'mountain',
+    link: 'http://volchiha.ru/',
   },
   {
     cord: [56.999333, 60.525789],

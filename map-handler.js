@@ -71,9 +71,16 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       balloonContent += '</div>';
 
+      let iconCaption = undefined
+      if (point.price) {
+        iconCaption = point.price.toLocaleString();
+      }
+      if (point.title) {
+        iconCaption = point.title;
+      }
 
       const placemark = new ymaps.Placemark(point.cord, {
-        iconCaption: point.price ? point.price.toLocaleString() : undefined,
+        iconCaption: iconCaption,
         hintContent: 'hintContent',
         balloonContent: balloonContent,
       }, {
